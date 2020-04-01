@@ -1,1 +1,1 @@
-some python demo
+my learn python demo,enjoy!
